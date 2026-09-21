@@ -1,16 +1,16 @@
-<!-- Put this file in a public repo named exactly: fusor06/fusor06 -->
+<!-- Put this file in a public repo named exactly: FUSOR01/FUSOR01 -->
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7aa2f7,100:bb9af7&height=200&section=header&text=fusor06&fontSize=64&fontColor=ffffff&fontAlignY=38&desc=Solo%20developer%20%C2%B7%20Building%20platforms%20%C2%B7%20AI%20%2F%20ML&descAlignY=58&descSize=18" width="100%" alt="header" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7aa2f7,100:bb9af7&height=200&section=header&text=FUSOR01&fontSize=64&fontColor=ffffff&fontAlignY=38&desc=Solo%20developer%20%C2%B7%20Building%20platforms%20%C2%B7%20AI%20%2F%20ML&descAlignY=58&descSize=18" width="100%" alt="header" />
 
-<a href="https://github.com/fusor06">
+<a href="https://github.com/FUSOR01">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&duration=3000&pause=1000&color=7AA2F7&center=true&vCenter=true&width=600&lines=B.Tech+CSE+(AIML)+student;Full-stack+%C2%B7+Python+%C2%B7+ML%2FDL+%C2%B7+Hardware;Building+and+launching+my+own+products" alt="typing" />
 </a>
 
 <br/>
 
-![Profile views](https://komarev.com/ghpvc/?username=fusor06&style=flat-square&color=7aa2f7&label=PROFILE+VIEWS)
+![Profile views](https://komarev.com/ghpvc/?username=FUSOR01&style=flat-square&color=7aa2f7&label=PROFILE+VIEWS)
 [![Portfolio](https://img.shields.io/badge/Portfolio-7aa2f7?style=flat-square&logo=safari&logoColor=white)](https://your-portfolio-link.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-handle)
 [![Email](https://img.shields.io/badge/Email-bb9af7?style=flat-square&logo=gmail&logoColor=white)](mailto:your-email@example.com)
@@ -82,7 +82,7 @@ GitHub Actions pipeline, dispatched from a Next.js platform, that automatically 
   </tr>
 </table>
 
-> 💡 Swap in repo links: `[Penbrio](https://github.com/fusor06/your-repo)`. Then pin the same four repos on your profile.
+> 💡 Swap in repo links: `[Penbrio](https://github.com/FUSOR01/your-repo)`. Then pin the same four repos on your profile.
 
 ---
 
@@ -90,12 +90,12 @@ GitHub Actions pipeline, dispatched from a Next.js platform, that automatically 
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=fusor06&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&count_private=true" alt="stats" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fusor06&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="top languages" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=FUSOR01&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&count_private=true" alt="stats" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FUSOR01&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="top languages" />
 
 <br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=fusor06&theme=tokyonight&hide_border=true&background=0d1117" alt="streak" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=FUSOR01&theme=tokyonight&hide_border=true&background=0d1117" alt="streak" />
 
 </div>
 
@@ -107,9 +107,9 @@ GitHub Actions pipeline, dispatched from a Next.js platform, that automatically 
 
 <!-- Requires the workflow below to generate the "output" branch -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/fusor06/fusor06/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/fusor06/fusor06/output/github-snake.svg" />
-  <img alt="snake animation" src="https://raw.githubusercontent.com/fusor06/fusor06/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/FUSOR01/FUSOR01/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/FUSOR01/FUSOR01/output/github-snake.svg" />
+  <img alt="snake animation" src="https://raw.githubusercontent.com/FUSOR01/FUSOR01/output/github-snake-dark.svg" />
 </picture>
 
 </div>
