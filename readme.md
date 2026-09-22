@@ -17,6 +17,31 @@
 
 </div>
 
+<div align="center">
+
+<!-- Hyperspeed-style light-streak animation: upload hyperspeed.svg to the repo root -->
+<img src="./hyperspeed.svg" width="100%" alt="Hyperspeed highway light streaks" />
+
+</div>
+
+```text
+███████╗██╗   ██╗███████╗ ██████╗ ██████╗  ██████╗  ██╗
+██╔════╝██║   ██║██╔════╝██╔═══██╗██╔══██╗██╔═████╗███║
+█████╗  ██║   ██║███████╗██║   ██║██████╔╝██║██╔██║╚██║
+██╔══╝  ██║   ██║╚════██║██║   ██║██╔══██╗████╔╝██║ ██║
+██║     ╚██████╔╝███████║╚██████╔╝██║  ██║╚██████╔╝ ██║
+╚═╝      ╚═════╝ ╚══════╝ ╚═════╝ ╚═╝  ╚═╝ ╚═════╝  ╚═╝
+```
+
+```text
+ (@)---.       .---(@)    FUSOR01@github
+        \_____/           ------------------
+        | o o |           role    solo developer
+        |_____|           study   B.Tech CSE (AIML), India
+        /     \           stack   Python, JS/TS, Next.js
+ (@)---'       '---(@)    focus   ML/DL, platforms, hardware
+```
+
 ---
 
 ## 👋 About me
