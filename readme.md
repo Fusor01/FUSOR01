@@ -14,6 +14,11 @@ $ whoami
 <a href="https://linkedin.com/in/your-handle"><img src="https://img.shields.io/badge/LINKEDIN-000000?style=for-the-badge&logo=linkedin&logoColor=9ECE6A&labelColor=0D1117" /></a>
 <a href="mailto:your-email@example.com"><img src="https://img.shields.io/badge/EMAIL-000000?style=for-the-badge&logo=gmail&logoColor=9ECE6A&labelColor=0D1117" /></a>
 
+<br/><br/>
+
+<!-- Self-contained animated SVG mascot, no external service required -->
+<img src="./planet.svg" width="200" alt="Animated Kurzgesagt-style ringed planet" />
+
 </div>
 
 <br/>
@@ -23,12 +28,14 @@ $ whoami
 
 <br/><br/>
 
-> ```
-> > cat about.txt
-> ```
-> Solo developer and CSE (AIML) student in India. I take ideas from a blank
-> folder to a live product — frontend, backend, ML, and sometimes the
-> hardware underneath it. Currently building and launching my own platforms.
+```
+$ cat manifesto.md
+```
+
+- 🔭 Right now: shipping platform products end-to-end, solo — design, code, deploy
+- 🧠 Background: full-stack web, Python scripting, ML/DL, and a bit of hardware
+- 🎓 In parallel: B.Tech CSE (AIML), India
+- ⚙️ Philosophy: fewer half-finished ideas, more things that actually ship
 
 <br/>
 
@@ -45,9 +52,9 @@ $ whoami
 </td>
 <td width="50%" valign="top">
 
-### `~/stats`
+### `~/trophies`
 
-<img src="https://github-readme-stats.vercel.app/api?username=FUSOR01&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=9ECE6A&icon_color=9ECE6A&text_color=c0caf5" alt="stats" width="100%" />
+<img src="https://github-profile-trophy.vercel.app/?username=FUSOR01&theme=radical&no-bg=true&no-frame=true&row=2&column=3&margin-w=8&margin-h=8" alt="trophies" width="100%" />
 
 </td>
 </tr>
@@ -57,13 +64,6 @@ $ whoami
 
 <table width="100%">
 <tr>
-<td width="50%" valign="top">
-
-### `~/languages`
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FUSOR01&layout=donut&theme=radical&hide_border=true&bg_color=0D1117&title_color=9ECE6A&text_color=c0caf5" alt="top languages" width="100%" />
-
-</td>
 <td width="50%" valign="top">
 
 ### `~/streak`
@@ -71,27 +71,36 @@ $ whoami
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=FUSOR01&theme=radical&hide_border=true&background=0D1117&ring=9ECE6A&fire=9ECE6A&currStreakLabel=9ECE6A" alt="streak" width="100%" />
 
 </td>
+<td width="50%" valign="top">
+
+### `~/activity`
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=FUSOR01&theme=react-dark&bg_color=0D1117&color=9ECE6A&line=9ECE6A&point=c0caf5&hide_border=true" alt="activity graph" width="100%" />
+
+</td>
 </tr>
 </table>
 
 <br/>
 
-### `~/projects --pinned`
+```
+$ ls -la ./builds
+```
 
 <table width="100%">
 <tr>
 <td width="50%" valign="top">
 
-**[📚 Penbrio](https://penbrio.me)**
-Campus document sharing platform, live at `penbrio.me`.
-`Next.js` `Full-stack` `Platform`
+**📚 Penbrio** → [`penbrio.me`](https://penbrio.me)
+Where students actually go to find and share course material, instead of digging through ten different group chats.
+`Next.js` `Full-stack`
 
 </td>
 <td width="50%" valign="top">
 
 **🎮 VECTOR//SHIFT**
-Multiplayer physics arena — ricochet + gravity-shift, 2–12 players.
-`Multiplayer` `Game` `Vercel`
+An arena shooter where the floor itself turns against you — ricochet shots and sudden gravity flips, 2 to 12 players.
+`Multiplayer` `Vercel`
 
 </td>
 </tr>
@@ -99,29 +108,30 @@ Multiplayer physics arena — ricochet + gravity-shift, 2–12 players.
 <td width="50%" valign="top">
 
 **✅ Repo Auto-Grader**
-GitHub Actions pipeline, dispatched from a Next.js platform, that auto-grades student repos.
-`GitHub Actions` `Next.js` `Automation`
+Push a repo, get graded — a GitHub Actions pipeline wired to a Next.js dashboard so nobody's grading assignments by hand.
+`GitHub Actions` `Next.js`
 
 </td>
 <td width="50%" valign="top">
 
 **🧪 Materials Science Studio**
-"Blender for materials science" — a 3D structure editor paired with ML-driven simulation.
-`3D` `ML` `Simulation`
+Think Blender, but for crystal structures — a 3D editor with ML-driven simulation underneath.
+`3D` `ML`
 
 </td>
 </tr>
 </table>
-
-> `swap in repo links, then pin the same four on your profile.`
 
 <br/>
 
 <div align="center">
 
 ```
-$ echo "currently shipping something new — say hi if you want to build together" ✨
+$ tail -f status.log
 ```
+
+**building in public, one late-night commit at a time.**
+open to interesting problems — reach out above. ⚡
 
 ![](https://capsule-render.vercel.app/api?type=soft&color=0:0D1117,100:0D1117&height=2)
 
