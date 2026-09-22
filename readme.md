@@ -1,183 +1,128 @@
-<!-- Put this file in a public repo named exactly: FUSOR01/FUSOR01 -->
-
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7aa2f7,100:bb9af7&height=200&section=header&text=FUSOR01&fontSize=64&fontColor=ffffff&fontAlignY=38&desc=Solo%20developer%20%C2%B7%20Building%20platforms%20%C2%B7%20AI%20%2F%20ML&descAlignY=58&descSize=18" width="100%" alt="header" />
+```
+$ whoami
+```
 
-<a href="https://github.com/FUSOR01">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&duration=3000&pause=1000&color=7AA2F7&center=true&vCenter=true&width=600&lines=B.Tech+CSE+(AIML)+student;Full-stack+%C2%B7+Python+%C2%B7+ML%2FDL+%C2%B7+Hardware;Building+and+launching+my+own+products" alt="typing" />
-</a>
+<h1>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=36&duration=2600&pause=900&color=9ECE6A&center=true&vCenter=true&width=560&lines=FUSOR01;B.Tech+CSE+(AIML)+student;Solo+dev+%C2%B7+builder+of+platforms" alt="typing" />
+</h1>
+
+![views](https://komarev.com/ghpvc/?username=FUSOR01&style=for-the-badge&color=9ECE6A&labelColor=0D1117&label=VISITORS)
+
+<a href="https://your-portfolio-link.com"><img src="https://img.shields.io/badge/PORTFOLIO-000000?style=for-the-badge&logo=vercel&logoColor=9ECE6A&labelColor=0D1117" /></a>
+<a href="https://linkedin.com/in/your-handle"><img src="https://img.shields.io/badge/LINKEDIN-000000?style=for-the-badge&logo=linkedin&logoColor=9ECE6A&labelColor=0D1117" /></a>
+<a href="mailto:your-email@example.com"><img src="https://img.shields.io/badge/EMAIL-000000?style=for-the-badge&logo=gmail&logoColor=9ECE6A&labelColor=0D1117" /></a>
+
+</div>
 
 <br/>
 
-![Profile views](https://komarev.com/ghpvc/?username=FUSOR01&style=flat-square&color=7aa2f7&label=PROFILE+VIEWS)
-[![Portfolio](https://img.shields.io/badge/Portfolio-7aa2f7?style=flat-square&logo=safari&logoColor=white)](https://your-portfolio-link.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-handle)
-[![Email](https://img.shields.io/badge/Email-bb9af7?style=flat-square&logo=gmail&logoColor=white)](mailto:your-email@example.com)
+<!-- Self-contained animated SVG, no external service required -->
+<img src="./neural-pulse.svg" width="100%" alt="Animated neural network signal graph" />
 
-</div>
+<br/><br/>
 
-<div align="center">
+> ```
+> > cat about.txt
+> ```
+> Solo developer and CSE (AIML) student in India. I take ideas from a blank
+> folder to a live product — frontend, backend, ML, and sometimes the
+> hardware underneath it. Currently building and launching my own platforms.
 
-<!-- Hyperspeed-style light-streak animation: upload hyperspeed.svg to the repo root -->
-<img src="./hyperspeed.svg" width="100%" alt="Hyperspeed highway light streaks" />
-
-</div>
-
-```text
-███████╗██╗   ██╗███████╗ ██████╗ ██████╗  ██████╗  ██╗
-██╔════╝██║   ██║██╔════╝██╔═══██╗██╔══██╗██╔═████╗███║
-█████╗  ██║   ██║███████╗██║   ██║██████╔╝██║██╔██║╚██║
-██╔══╝  ██║   ██║╚════██║██║   ██║██╔══██╗████╔╝██║ ██║
-██║     ╚██████╔╝███████║╚██████╔╝██║  ██║╚██████╔╝ ██║
-╚═╝      ╚═════╝ ╚══════╝ ╚═════╝ ╚═╝  ╚═╝ ╚═════╝  ╚═╝
-```
-
-```text
- (@)---.       .---(@)    FUSOR01@github
-        \_____/           ------------------
-        | o o |           role    solo developer
-        |_____|           study   B.Tech CSE (AIML), India
-        /     \           stack   Python, JS/TS, Next.js
- (@)---'       '---(@)    focus   ML/DL, platforms, hardware
-```
-
----
-
-## 👋 About me
-
-I'm a solo developer and CSE (AIML) student in India. I like taking an idea from a blank folder to a live product: frontend, backend, ML, and sometimes the hardware too.
-
-- 🚀 Currently building and launching my own platform products
-- 🧠 Working across full-stack web, Python scripting, ML/DL, and hardware projects
-- 🎯 Interested in developer tools, campus tech, and browser-based simulation
-
----
-
-## 🛠️ Tech stack
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=py,js,ts,react,nextjs,tailwind,nodejs,html,css&theme=dark" alt="web" />
 <br/>
-<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn,arduino,github,git,vercel,linux,vscode&theme=dark" alt="ml and tools" />
 
-</div>
+<table width="100%">
+<tr>
+<td width="50%" valign="top">
 
----
+### `~/stack`
 
-## 📌 Featured projects
+<img src="https://skillicons.dev/icons?i=py,ts,js,react,nextjs,nodejs,tailwind&theme=dark" alt="web stack" />
+<br/><br/>
+<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn,arduino,git,vercel,linux&theme=dark" alt="ml and tools" />
 
-<table>
-  <tr>
-    <td width="50%" valign="top">
+</td>
+<td width="50%" valign="top">
 
-### 📚 [Penbrio](https://penbrio.me)
-Campus document sharing platform, live at **penbrio.me**. Students share and find study material in one place.
+### `~/stats`
 
-`Next.js` `Full-stack` `Platform`
+<img src="https://github-readme-stats.vercel.app/api?username=FUSOR01&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=9ECE6A&icon_color=9ECE6A&text_color=c0caf5" alt="stats" width="100%" />
 
-    </td>
-    <td width="50%" valign="top">
-
-### 🎮 VECTOR//SHIFT
-Multiplayer physics arena for 2 to 12 players, mixing ricochet mechanics with gravity shifts.
-
-`Multiplayer` `Game` `Vercel`
-
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-
-### ✅ Repo Auto-Grader
-GitHub Actions pipeline, dispatched from a Next.js platform, that automatically grades student repositories.
-
-`GitHub Actions` `Next.js` `Automation`
-
-    </td>
-    <td width="50%" valign="top">
-
-### 🧪 Materials Science Studio
-"Blender for materials science": a 3D structure editor paired with ML-driven simulation.
-
-`3D` `ML` `Simulation`
-
-    </td>
-  </tr>
+</td>
+</tr>
 </table>
 
-> 💡 Swap in repo links: `[Penbrio](https://github.com/FUSOR01/your-repo)`. Then pin the same four repos on your profile.
+<br/>
 
----
+<table width="100%">
+<tr>
+<td width="50%" valign="top">
 
-## 📊 GitHub stats
+### `~/languages`
 
-<div align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FUSOR01&layout=donut&theme=radical&hide_border=true&bg_color=0D1117&title_color=9ECE6A&text_color=c0caf5" alt="top languages" width="100%" />
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=FUSOR01&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&count_private=true" alt="stats" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FUSOR01&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="top languages" />
+</td>
+<td width="50%" valign="top">
+
+### `~/streak`
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=FUSOR01&theme=radical&hide_border=true&background=0D1117&ring=9ECE6A&fire=9ECE6A&currStreakLabel=9ECE6A" alt="streak" width="100%" />
+
+</td>
+</tr>
+</table>
 
 <br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=FUSOR01&theme=tokyonight&hide_border=true&background=0d1117" alt="streak" />
+### `~/projects --pinned`
 
-</div>
+<table width="100%">
+<tr>
+<td width="50%" valign="top">
 
----
+**[📚 Penbrio](https://penbrio.me)**
+Campus document sharing platform, live at `penbrio.me`.
+`Next.js` `Full-stack` `Platform`
 
-## 🐍 Contribution snake
+</td>
+<td width="50%" valign="top">
+
+**🎮 VECTOR//SHIFT**
+Multiplayer physics arena — ricochet + gravity-shift, 2–12 players.
+`Multiplayer` `Game` `Vercel`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+**✅ Repo Auto-Grader**
+GitHub Actions pipeline, dispatched from a Next.js platform, that auto-grades student repos.
+`GitHub Actions` `Next.js` `Automation`
+
+</td>
+<td width="50%" valign="top">
+
+**🧪 Materials Science Studio**
+"Blender for materials science" — a 3D structure editor paired with ML-driven simulation.
+`3D` `ML` `Simulation`
+
+</td>
+</tr>
+</table>
+
+> `swap in repo links, then pin the same four on your profile.`
+
+<br/>
 
 <div align="center">
 
-<!-- Requires the workflow below to generate the "output" branch -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/FUSOR01/FUSOR01/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/FUSOR01/FUSOR01/output/github-snake.svg" />
-  <img alt="snake animation" src="https://raw.githubusercontent.com/FUSOR01/FUSOR01/output/github-snake-dark.svg" />
-</picture>
+```
+$ echo "currently shipping something new — say hi if you want to build together" ✨
+```
+
+![](https://capsule-render.vercel.app/api?type=soft&color=0:0D1117,100:0D1117&height=2)
 
 </div>
-
----
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:bb9af7,100:7aa2f7&height=100&section=footer" width="100%" alt="footer" />
-
-*Currently shipping something new. Say hi if you want to build together.* ✨
-
-</div>
-
-<!--
-========================================================
-OPTIONAL: snake animation workflow
-Save as .github/workflows/snake.yml in the same repo
-========================================================
-
-name: Generate snake
-on:
-  schedule:
-    - cron: "0 0 * * *"
-  workflow_dispatch:
-  push:
-    branches: [main]
-permissions:
-  contents: write
-jobs:
-  generate:
-    runs-on: ubuntu-latest
-    steps:
-      - uses: Platane/snk@v3
-        with:
-          github_user_name: ${{ github.repository_owner }}
-          outputs: |
-            dist/github-snake.svg
-            dist/github-snake-dark.svg?palette=github-dark
-      - uses: crazy-max/ghaction-github-pages@v3.1.0
-        with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
--->
