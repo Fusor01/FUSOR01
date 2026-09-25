@@ -91,7 +91,7 @@ $ ls -la ./builds
 <tr>
 <td width="50%" valign="top">
 
-**📚 Penbrio** → [`penbrio.me`](https://penbrio.me)
+**📚 Penbrio** →
 Where students actually go to find and share course material, instead of digging through ten different group chats.
 `Next.js` `Full-stack`
 
