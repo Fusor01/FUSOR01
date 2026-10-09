@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 260" width="600" height="260" role="img" aria-label="Activity graph placeholder">
+<style>text{font-family:'Segoe UI','Helvetica Neue',Helvetica,Arial,sans-serif}</style>
+<rect width="600" height="260" rx="22" fill="#161B38"/>
+<path d="M48 190 C140 190 160 150 240 160 S380 110 440 130 S520 90 576 100" fill="none" stroke="#38D9C0" stroke-width="3" stroke-linecap="round" stroke-dasharray="2 8" opacity=".6"/>
+<text x="300" y="120" font-size="20" font-weight="800" fill="#EAEFFF" text-anchor="middle">Activity graph loading</text>
+<text x="300" y="146" font-size="14" fill="#8A93C0" text-anchor="middle">Run the "Update activity graph" workflow once to fill this in.</text>
+</svg>
