@@ -1,138 +1,78 @@
-<div align="center">
+ $ whoami
+Typing SVG
+Visitors
 
-```
-$ whoami
-```
 
-<h1>
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=36&duration=2600&pause=900&color=9ECE6A&center=true&vCenter=true&width=560&lines=FUSOR01;B.Tech+CSE+(AIML)+student;Solo+dev+%C2%B7+builder+of+platforms" alt="typing" />
-</h1>
 
-![views](https://komarev.com/ghpvc/?username=FUSOR01&style=for-the-badge&color=9ECE6A&labelColor=0D1117&label=VISITORS)
+PortfolioLinkedInEmail
 
-<a href="https://your-portfolio-link.com"><img src="https://img.shields.io/badge/PORTFOLIO-000000?style=for-the-badge&logo=vercel&logoColor=9ECE6A&labelColor=0D1117" /></a>
-<a href="https://linkedin.com/in/your-handle"><img src="https://img.shields.io/badge/LINKEDIN-000000?style=for-the-badge&logo=linkedin&logoColor=9ECE6A&labelColor=0D1117" /></a>
-<a href="mailto:your-email@example.com"><img src="https://img.shields.io/badge/EMAIL-000000?style=for-the-badge&logo=gmail&logoColor=9ECE6A&labelColor=0D1117" /></a>
 
-<br/><br/>
 
-<!-- Self-contained animated SVG mascot, no external service required -->
-<img src="./planet.svg" width="200" alt="Animated Kurzgesagt-style ringed planet" />
 
-</div>
+Animated Catppuccin ringed planet
 
-<br/>
+Animated Catppuccin signal trace
+ $ cat manifesto.md
+who I am, and what I'm building.
 
-<!-- Self-contained animated SVG, no external service required -->
-<img src="./neural-pulse.svg" width="100%" alt="Animated neural network signal graph" />
+🚀 Shipping end-to-end platforms solo — design, code, deploy, and own the outcome. No handoffs, no waiting on a team to greenlight the next move.
+🧠 Stack runs deep: full-stack web, Python automation, ML/DL pipelines, and a bit of hardware when it earns its place. The goal is fluency across the whole loop, not mastery of one layer.
+🎓 B.Tech CSE (AIML) in India — but the degree is the floor, not the ceiling. Most of what sticks comes from building real things in the open.
+⚡ Operating principle: collapse the distance between idea and shipped thing. Days, not quarters. Working code beats perfect intentions.
 
-<br/><br/>
+ $ uptime  — currently
+what's in front of me right now.
 
-```
-$ cat manifesto.md
-```
+🛠️ Building: platform products end-to-end — frontend, backend, infra, and the bits in between that nobody else wants to touch.
+📚 Going deeper on: distributed systems, eval-driven ML development, and the unglamorous parts of infrastructure that make products actually scale.
+📖 Reading: The Hard Thing About Hard Things (Horowitz) — startup operator's field guide.
+🌱 Exploring: where ML meets real product surfaces — not models for their own sake, but models that change what a product can do.
+Spotify — now playing
+ $ cat stack.toml
+the tools I reach for daily.
 
-- 🔭 Right now: shipping platform products end-to-end, solo — design, code, deploy
-- 🧠 Background: full-stack web, Python scripting, ML/DL, and a bit of hardware
-- 🎓 In parallel: B.Tech CSE (AIML), India
-- ⚙️ Philosophy: fewer half-finished ideas, more things that actually ship
+languages
 
-<br/>
+Python · TypeScript · JavaScript · SQL
 
-<table width="100%">
-<tr>
-<td width="50%" valign="top">
+frontend
 
-### `~/stack`
+React · Next.js · Tailwind · Framer Motion
 
-<img src="https://skillicons.dev/icons?i=py,ts,js,react,nextjs,nodejs,tailwind&theme=dark" alt="web stack" />
-<br/><br/>
-<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn,arduino,git,vercel,linux&theme=dark" alt="ml and tools" />
+backend
 
-</td>
-<td width="50%" valign="top">
+Node · FastAPI · Postgres · Redis
 
-### `~/trophies`
+ML / DL
 
-<img src="https://github-profile-trophy.vercel.app/?username=FUSOR01&theme=radical&no-bg=true&no-frame=true&row=2&column=3&margin-w=8&margin-h=8" alt="trophies" width="100%" />
+PyTorch · TensorFlow · scikit-learn · HuggingFace
 
-</td>
-</tr>
-</table>
+infra / deploy
 
-<br/>
+Docker · Vercel · GitHub Actions · Linux
 
-<table width="100%">
-<tr>
-<td width="50%" valign="top">
+hardware / other
 
-### `~/streak`
+Arduino · Git · Figma · Neovim
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=FUSOR01&theme=radical&hide_border=true&background=0D1117&ring=9ECE6A&fire=9ECE6A&currStreakLabel=9ECE6A" alt="streak" width="100%" />
 
-</td>
-<td width="50%" valign="top">
+ $ gh stats
+by the numbers.
 
-### `~/activity`
+GitHub stats	Top languages
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=FUSOR01&theme=react-dark&bg_color=0D1117&color=9ECE6A&line=9ECE6A&point=c0caf5&hide_border=true" alt="activity graph" width="100%" />
+ $ cat principles.md
+what I actually care about.
 
-</td>
-</tr>
-</table>
+🚢 Ship beats perfect. A working thing in users' hands is worth ten pristine things still in your head. The last 20% is where most people quit — that's the gap worth crossing.
+🧭 Own the whole loop. Design, code, deploy, observe, iterate. Knowing every stage makes you dangerous in the right way — and impossible to surprise in code review.
+🧱 Constraints are feature requests in disguise. Less money, less time, fewer people usually produces sharper products. Comfort breeds bloat.
+📦 If it's not in version control, it doesn't exist. If it's not deployed, it's not real. A local prototype is a hypothesis; a deployed prototype is a result.
+🔍 Read the source, then read it again. Documentation lies; code doesn't. When in doubt, open the file and trace the call.
+🤝 Be useful, then be clever. The smartest solution nobody understands is worse than the dumbest solution everyone can ship.
 
-<br/>
+Animated Catppuccin signal trace
+ $ tail -f status.log
+building in public, one late-night commit at a time.
 
-```
-$ ls -la ./builds
-```
-
-<table width="100%">
-<tr>
-<td width="50%" valign="top">
-
-**📚 Penbrio** →
-Where students actually go to find and share course material, instead of digging through ten different group chats.
-`Next.js` `Full-stack`
-
-</td>
-<td width="50%" valign="top">
-
-**🎮 VECTOR//SHIFT**
-An arena shooter where the floor itself turns against you — ricochet shots and sudden gravity flips, 2 to 12 players.
-`Multiplayer` `Vercel`
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-**✅ Repo Auto-Grader**
-Push a repo, get graded — a GitHub Actions pipeline wired to a Next.js dashboard so nobody's grading assignments by hand.
-`GitHub Actions` `Next.js`
-
-</td>
-<td width="50%" valign="top">
-
-**🧪 Materials Science Studio**
-Think Blender, but for crystal structures — a 3D editor with ML-driven simulation underneath.
-`3D` `ML`
-
-</td>
-</tr>
-</table>
-
-<br/>
-
-<div align="center">
-
-```
-$ tail -f status.log
-```
-
-**building in public, one late-night commit at a time.**
-open to interesting problems — reach out above. ⚡
-
-![](https://capsule-render.vercel.app/api?type=soft&color=0:0D1117,100:0D1117&height=2)
-
-</div>
+open to interesting problems, ambitious builders, and inconvenient truths.reach out above — the inbox is open. ⚡
