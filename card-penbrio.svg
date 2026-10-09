@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 480 256" width="480" height="256" role="img" aria-label="Penbrio: Campus document sharing">
+<title>Penbrio: Campus document sharing</title>
+<style>text{font-family:'Segoe UI','Helvetica Neue',Helvetica,Arial,sans-serif}</style>
+
+<rect x="4" y="11" width="472" height="240" rx="22" fill="#080B1A"/>
+<rect x="4" y="4" width="472" height="240" rx="22" fill="#161B38" stroke="#080B1A" stroke-width="3"/>
+<rect x="360" y="30" width="92" height="92" rx="20" fill="#1E2550" stroke="#080B1A" stroke-width="3"/>
+<g transform="translate(406 76)"><g><animateTransform attributeName="transform" type="rotate" values="-20 0 26;-11.0 0 26;-20 0 26" dur="5s" repeatCount="indefinite"/><rect x="-19" y="-26" width="38" height="52" rx="5" fill="#5A64A8" stroke="#080B1A" stroke-width="3"/></g><g><animateTransform attributeName="transform" type="rotate" values="18 0 26;9.9 0 26;18 0 26" dur="5s" repeatCount="indefinite"/><rect x="-19" y="-26" width="38" height="52" rx="5" fill="#8B7BFF" stroke="#080B1A" stroke-width="3"/></g><rect x="-19" y="-26" width="38" height="52" rx="5" fill="#38D9C0" stroke="#080B1A" stroke-width="3"/><rect x="-11" y="-17" width="16" height="5" rx="2.5" fill="#080B1A"/><rect x="-11" y="-8" width="22" height="4" rx="2" fill="#080B1A" opacity=".55"/><rect x="-11" y="0" width="22" height="4" rx="2" fill="#080B1A" opacity=".55"/><rect x="-11" y="8" width="14" height="4" rx="2" fill="#080B1A" opacity=".55"/></g>
+<text x="32" y="66" font-size="24" font-weight="800" fill="#EAEFFF">Penbrio</text>
+<text x="32" y="94" font-size="15" font-weight="600" fill="#38D9C0">Campus document sharing</text>
+<text x="32" y="150" font-size="14.5" fill="#B6BEE6">Campus notes, slides and past papers in one</text><text x="32" y="171" font-size="14.5" fill="#B6BEE6">searchable library. Built by students, so the</text><text x="32" y="192" font-size="14.5" fill="#B6BEE6">group chats can finally rest.</text>
+<g transform="translate(32 208)"><rect width="78" height="26" rx="13" fill="#1E2550" stroke="#38D9C0" stroke-width="1.5"/><text x="39" y="18" font-size="12.5" font-weight="600" fill="#38D9C0" text-anchor="middle">Next.js</text></g><g transform="translate(118 208)"><rect width="100" height="26" rx="13" fill="#1E2550" stroke="#38D9C0" stroke-width="1.5"/><text x="50" y="18" font-size="12.5" font-weight="600" fill="#38D9C0" text-anchor="middle">Full-stack</text></g><g transform="translate(226 208)"><rect width="56" height="26" rx="13" fill="#1E2550" stroke="#38D9C0" stroke-width="1.5"/><text x="28" y="18" font-size="12.5" font-weight="600" fill="#38D9C0" text-anchor="middle">Live</text></g>
+
+</svg>
