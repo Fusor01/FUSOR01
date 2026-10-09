@@ -71,7 +71,7 @@ Fewer half-finished ideas, more things that actually ship. B.Tech CSE (AIML) run
 <img src="https://streak-stats.demolab.com/?user=FUSOR01&hide_border=true&background=161B38&ring=FFC857&fire=FF6B6B&currStreakLabel=FFC857&currStreakNum=EAEFFF&sideLabels=B6BEE6&sideNums=EAEFFF&dates=8A93C0&stroke=3A4278" alt="GitHub streak" width="100%" />
 </td>
 <td width="50%" valign="middle">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=FUSOR01&bg_color=161B38&color=EAEFFF&line=38D9C0&point=FFC857&area=true&area_color=38D9C0&hide_border=true" alt="GitHub activity graph" width="100%" />
+<img src="./assets/activity.svg" alt="Contributions in the last 30 days" width="100%" />
 </td>
 </tr>
 </table>
