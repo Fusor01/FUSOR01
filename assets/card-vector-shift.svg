@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 480 256" width="480" height="256" role="img" aria-label="VECTOR//SHIFT: Multiplayer physics arena">
+<title>VECTOR//SHIFT: Multiplayer physics arena</title>
+<style>text{font-family:'Segoe UI','Helvetica Neue',Helvetica,Arial,sans-serif}</style>
+
+<rect x="4" y="11" width="472" height="240" rx="22" fill="#080B1A"/>
+<rect x="4" y="4" width="472" height="240" rx="22" fill="#161B38" stroke="#080B1A" stroke-width="3"/>
+<rect x="360" y="30" width="92" height="92" rx="20" fill="#1E2550" stroke="#080B1A" stroke-width="3"/>
+<g transform="translate(406 76)">
+<rect x="-34" y="-34" width="68" height="68" rx="9" fill="#0E1226" stroke="#080B1A" stroke-width="3"/>
+<path d="M-24,-20 L26,-6 L-2,26 L-26,8 L20,-26 L-24,-20" fill="none" stroke="#FF6B6B" stroke-opacity=".28" stroke-width="2" stroke-dasharray="3 4"/>
+<g fill="#8A93C0" opacity=".55">
+  <animateTransform attributeName="transform" type="rotate" values="0;0;180;180;360" keyTimes="0;.4;.5;.9;1" dur="6s" repeatCount="indefinite"/>
+  <path d="M0 -13L9 0L3.5 0L3.5 13L-3.5 13L-3.5 0L-9 0Z"/>
+</g>
+<circle r="6" fill="#FF6B6B" stroke="#080B1A" stroke-width="2.5">
+  <animateMotion dur="5s" repeatCount="indefinite" path="M-24,-20 L26,-6 L-2,26 L-26,8 L20,-26 L-24,-20"/>
+</circle></g>
+<text x="32" y="66" font-size="24" font-weight="800" fill="#EAEFFF">VECTOR//SHIFT</text>
+<text x="32" y="94" font-size="15" font-weight="600" fill="#FF6B6B">Multiplayer physics arena</text>
+<text x="32" y="150" font-size="14.5" fill="#B6BEE6">An arena for 2 to 12 players. Shots ricochet off</text><text x="32" y="171" font-size="14.5" fill="#B6BEE6">the walls and gravity flips mid-fight, so no</text><text x="32" y="192" font-size="14.5" fill="#B6BEE6">position ever stays safe.</text>
+<g transform="translate(32 208)"><rect width="107" height="26" rx="13" fill="#1E2550" stroke="#FF6B6B" stroke-width="1.5"/><text x="54" y="18" font-size="12.5" font-weight="600" fill="#FF6B6B" text-anchor="middle">Multiplayer</text></g><g transform="translate(147 208)"><rect width="70" height="26" rx="13" fill="#1E2550" stroke="#FF6B6B" stroke-width="1.5"/><text x="35" y="18" font-size="12.5" font-weight="600" fill="#FF6B6B" text-anchor="middle">Vercel</text></g><g transform="translate(226 208)"><rect width="78" height="26" rx="13" fill="#1E2550" stroke="#FF6B6B" stroke-width="1.5"/><text x="39" y="18" font-size="12.5" font-weight="600" fill="#FF6B6B" text-anchor="middle">Physics</text></g>
+
+</svg>

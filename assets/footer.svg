@@ -1,0 +1,46 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 132" width="1200" height="132" role="img" aria-label="Building in public, one late-night commit at a time">
+<title>Building in public, one late-night commit at a time</title>
+<style>text{font-family:'Segoe UI','Helvetica Neue',Helvetica,Arial,sans-serif}</style>
+
+<defs><clipPath id="fc"><rect width="1200" height="132" rx="26"/></clipPath></defs>
+<g clip-path="url(#fc)">
+  <rect width="1200" height="132" fill="#0E1226"/>
+  <circle cx="1090" cy="66" r="130" fill="#111633"/>
+  <circle cx="1090" cy="66" r="78" fill="#141A3D"/>
+  <circle cx="1084.3" cy="112.7" r="1.2" fill="#EAEFFF" opacity=".5"><animate attributeName="opacity" values=".2;.9;.2" dur="3.4s" begin="1.8s" repeatCount="indefinite"/></circle>
+<path transform="translate(178.5 34.0) scale(0.7)" fill="#EAEFFF" d="M0-6L1.6-1.6L6 0L1.6 1.6L0 6L-1.6 1.6L-6 0L-1.6-1.6Z"><animate attributeName="opacity" values=".3;1;.3" dur="3.4s" begin="0.7s" repeatCount="indefinite"/></path>
+<circle cx="1148.7" cy="65.8" r="1.2" fill="#38D9C0" opacity=".5"><animate attributeName="opacity" values=".2;.9;.2" dur="2.7s" begin="1.1s" repeatCount="indefinite"/></circle>
+<circle cx="701.6" cy="82.4" r="2.0" fill="#EAEFFF" opacity=".5"><animate attributeName="opacity" values=".2;.9;.2" dur="3.3s" begin="2.9s" repeatCount="indefinite"/></circle>
+<path transform="translate(450.3 73.5) scale(1.0)" fill="#FFC857" d="M0-6L1.6-1.6L6 0L1.6 1.6L0 6L-1.6 1.6L-6 0L-1.6-1.6Z"><animate attributeName="opacity" values=".3;1;.3" dur="4.1s" begin="1.7s" repeatCount="indefinite"/></path>
+<circle cx="703.3" cy="60.5" r="2.0" fill="#EAEFFF" opacity=".5"><animate attributeName="opacity" values=".2;.9;.2" dur="2.9s" begin="0.5s" repeatCount="indefinite"/></circle>
+<circle cx="960.1" cy="34.3" r="1.2" fill="#EAEFFF" opacity=".5"><animate attributeName="opacity" values=".2;.9;.2" dur="2.7s" begin="0.3s" repeatCount="indefinite"/></circle>
+<circle cx="683.0" cy="99.3" r="1.6" fill="#EAEFFF" opacity=".5"><animate attributeName="opacity" values=".2;.9;.2" dur="3.1s" begin="1.1s" repeatCount="indefinite"/></circle>
+<circle cx="916.4" cy="71.1" r="1.6" fill="#EAEFFF" opacity=".5"><animate attributeName="opacity" values=".2;.9;.2" dur="4.0s" begin="0.3s" repeatCount="indefinite"/></circle>
+<circle cx="974.6" cy="38.8" r="2.0" fill="#EAEFFF" opacity=".5"><animate attributeName="opacity" values=".2;.9;.2" dur="3.7s" begin="2.8s" repeatCount="indefinite"/></circle>
+<circle cx="220.7" cy="115.4" r="1.2" fill="#38D9C0" opacity=".5"><animate attributeName="opacity" values=".2;.9;.2" dur="2.9s" begin="1.2s" repeatCount="indefinite"/></circle>
+<circle cx="44.5" cy="37.1" r="2.0" fill="#EAEFFF" opacity=".5"><animate attributeName="opacity" values=".2;.9;.2" dur="4.4s" begin="1.6s" repeatCount="indefinite"/></circle>
+<circle cx="424.6" cy="115.3" r="1.6" fill="#38D9C0" opacity=".5"><animate attributeName="opacity" values=".2;.9;.2" dur="2.7s" begin="0.6s" repeatCount="indefinite"/></circle>
+<circle cx="254.2" cy="111.1" r="1.6" fill="#EAEFFF" opacity=".5"><animate attributeName="opacity" values=".2;.9;.2" dur="3.6s" begin="0.3s" repeatCount="indefinite"/></circle>
+<path transform="translate(817.3 72.0) scale(1.0)" fill="#FFC857" d="M0-6L1.6-1.6L6 0L1.6 1.6L0 6L-1.6 1.6L-6 0L-1.6-1.6Z"><animate attributeName="opacity" values=".3;1;.3" dur="2.9s" begin="0.3s" repeatCount="indefinite"/></path>
+<circle cx="778.5" cy="57.1" r="1.2" fill="#38D9C0" opacity=".5"><animate attributeName="opacity" values=".2;.9;.2" dur="4.3s" begin="0.2s" repeatCount="indefinite"/></circle>
+<circle cx="880.1" cy="70.8" r="1.6" fill="#38D9C0" opacity=".5"><animate attributeName="opacity" values=".2;.9;.2" dur="4.1s" begin="0.9s" repeatCount="indefinite"/></circle>
+<circle cx="88.7" cy="43.6" r="1.2" fill="#EAEFFF" opacity=".5"><animate attributeName="opacity" values=".2;.9;.2" dur="3.6s" begin="1.0s" repeatCount="indefinite"/></circle>
+<circle cx="313.1" cy="113.0" r="1.2" fill="#FFC857" opacity=".5"><animate attributeName="opacity" values=".2;.9;.2" dur="3.6s" begin="1.7s" repeatCount="indefinite"/></circle>
+<circle cx="669.4" cy="63.0" r="1.6" fill="#FFC857" opacity=".5"><animate attributeName="opacity" values=".2;.9;.2" dur="3.3s" begin="0.0s" repeatCount="indefinite"/></circle>
+<circle cx="191.7" cy="104.2" r="1.2" fill="#EAEFFF" opacity=".5"><animate attributeName="opacity" values=".2;.9;.2" dur="3.4s" begin="0.5s" repeatCount="indefinite"/></circle>
+<circle cx="123.3" cy="86.8" r="1.6" fill="#EAEFFF" opacity=".5"><animate attributeName="opacity" values=".2;.9;.2" dur="3.1s" begin="1.6s" repeatCount="indefinite"/></circle>
+<circle cx="128.5" cy="105.2" r="1.6" fill="#38D9C0" opacity=".5"><animate attributeName="opacity" values=".2;.9;.2" dur="3.8s" begin="2.3s" repeatCount="indefinite"/></circle>
+<path transform="translate(362.5 47.2) scale(0.7)" fill="#FFC857" d="M0-6L1.6-1.6L6 0L1.6 1.6L0 6L-1.6 1.6L-6 0L-1.6-1.6Z"><animate attributeName="opacity" values=".3;1;.3" dur="4.3s" begin="0.8s" repeatCount="indefinite"/></path>
+<circle cx="508.3" cy="98.9" r="1.6" fill="#FFC857" opacity=".5"><animate attributeName="opacity" values=".2;.9;.2" dur="3.8s" begin="1.6s" repeatCount="indefinite"/></circle>
+<path transform="translate(1048.2 116.8) scale(1.0)" fill="#FFC857" d="M0-6L1.6-1.6L6 0L1.6 1.6L0 6L-1.6 1.6L-6 0L-1.6-1.6Z"><animate attributeName="opacity" values=".3;1;.3" dur="3.4s" begin="0.3s" repeatCount="indefinite"/></path>
+</g>
+<g>
+  <animateTransform attributeName="transform" type="translate" values="1090 62;1090 54;1090 62" keyTimes="0;.5;1" calcMode="spline" keySplines=".45 0 .55 1;.45 0 .55 1" dur="7s" repeatCount="indefinite"/>
+  <circle r="24" fill="#FFC857" stroke="#080B1A" stroke-width="5"/>
+  <circle cx="-14" cy="-3" r="22" fill="#141A3D"/>
+  <circle r="24" fill="none" stroke="#080B1A" stroke-width="5"/>
+</g>
+<text x="600" y="62" font-size="28" font-weight="800" fill="#EAEFFF" text-anchor="middle">Building in public, one late-night commit at a time.</text>
+<text x="600" y="94" font-size="17" font-weight="500" fill="#8A93C0" text-anchor="middle">Open to interesting problems. Reach out above.</text>
+
+</svg>

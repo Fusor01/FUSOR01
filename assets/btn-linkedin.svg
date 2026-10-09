@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 180 56" width="180" height="56" role="img" aria-label="LinkedIn">
+<title>LinkedIn</title>
+<style>text{font-family:'Segoe UI','Helvetica Neue',Helvetica,Arial,sans-serif}</style>
+
+<rect x="4" y="11" width="172" height="40" rx="20" fill="#080B1A"/>
+<rect x="4" y="5" width="172" height="40" rx="20" fill="#38D9C0" stroke="#080B1A" stroke-width="3"/>
+<text x="90" y="31" font-size="17" font-weight="800" fill="#080B1A" text-anchor="middle">LinkedIn</text>
+
+</svg>

@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 48" width="1200" height="48" role="img" aria-label="Builds">
+<title>Builds</title>
+<style>text{font-family:'Segoe UI','Helvetica Neue',Helvetica,Arial,sans-serif}</style>
+
+<line x1="155" y1="24" x2="1200" y2="24" stroke="#3A4278" stroke-width="2" stroke-linecap="round"/>
+<rect x="1" y="5" width="137" height="38" rx="19" fill="#161B38" stroke="#3A4278" stroke-width="1.5"/>
+<circle cx="25" cy="24" r="7" fill="#FFC857" stroke="#080B1A" stroke-width="3"/>
+<text x="44" y="31" font-size="20" font-weight="700" fill="#EAEFFF">Builds</text>
+
+</svg>
