@@ -63,7 +63,7 @@ Fewer half-finished ideas, more things that actually ship. B.Tech CSE (AIML) run
 
 <br/>
 
-<img src="./assets/h-activity.svg" alt="Activity" width="100%" />
+<img src="./assets/activity.svg" alt="Activity" width="100%" />
 
 <table width="100%">
 <tr>
